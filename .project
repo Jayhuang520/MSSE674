@@ -28,4 +28,16 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>WebContent/Images/King.jpg</name>
+			<type>1</type>
+			<location>C:/Users/JayHu/eclipse-workspace/HuangsHotelReservationSystem/WebContent/Images/King.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/Images/Single.jpg</name>
+			<type>1</type>
+			<location>C:/Users/JayHu/eclipse-workspace/HuangsHotelReservationSystem/WebContent/Images/Single.jpg</location>
+		</link>
+	</linkedResources>
 </projectDescription>
